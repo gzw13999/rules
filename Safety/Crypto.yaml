@@ -36,6 +36,10 @@ payload:
   - DOMAIN-SUFFIX,zkscan.io
   - DOMAIN-SUFFIX,zksync.io
   - DOMAIN-SUFFIX,boba.network
+  - DOMAIN-SUFFIX,backpack.exchange
+  - DOMAIN-SUFFIX,crypto.com
+  - DOMAIN-SUFFIX,probit.com
+  - DOMAIN-SUFFIX,upbit.com
 
   # > Binance
   - DOMAIN-SUFFIX,binance.cc
@@ -75,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,bscscan.com
   - PROCESS-NAME,Binance.exe
   - DOMAIN-KEYWORD,binance
+  - DOMAIN-SUFFIX,yingwangtech.cloud
 
   # > Bybit
   - DOMAIN-SUFFIX,bybit.com
@@ -94,7 +99,12 @@ payload:
   - DOMAIN,DOMAIN-SUFFIX,bybit-global.com
   - DOMAIN,DOMAIN-SUFFIX,bybit.cloud
   - DOMAIN,DOMAIN-SUFFIX,bybitglobal.com
-  
+  - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+
+  # > Bitget
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitget.site
+
   # > Huobi
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
@@ -123,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,okx.com
   - PROCESS-NAME,OKX.exe
   - DOMAIN-KEYWORD,okx
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 
   # > asproex
   - DOMAIN-SUFFIX,asproex.com
