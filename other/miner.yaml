@@ -2,3 +2,6 @@ payload:
 
   # > binance
   - DOMAIN-SUFFIX,poolbinance.com
+
+  # > viabtc.com
+  - DOMAIN-SUFFIX,viabtc.io
